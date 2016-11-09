@@ -1,0 +1,3 @@
+Place xml(s) in: C:\Users\*username*\AppData\Roaming\QtProject\qtcreator\Styles
+Qt Creator, navigate to: Tools->Options->Text Editor
+Select style in Color Scheme dropdown
